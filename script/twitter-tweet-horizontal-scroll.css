@@ -1,0 +1,43 @@
+/* Twitter tweet horizontal scroll */
+
+/*CSS for setting 1*/
+#twittertweet1 {
+	border: 0px solid #bdc7d8;
+	width:100%;
+	vertical-align:middle;
+}
+#twittertweet1 p {
+	width:100%;
+	vertical-align:middle;
+	padding-top:5px;
+}
+/*CSS for setting 1*/
+
+
+/*CSS for setting 2*/
+#twittertweet2 {
+	border: 0px solid #DDDDEE;
+	width:100%;
+	vertical-align:middle;
+}
+#twittertweet2 p {
+	width:100%;
+	vertical-align:middle;
+	padding-top:5px;
+}
+/*CSS for setting 2*/
+
+
+/*CSS for setting 3*/
+#twittertweet3 {
+	border: 0px solid #FF9900;
+	height: 30px;
+	width:100%;
+	vertical-align:middle;
+}
+#twittertweet3 p {
+	width:100%;
+	vertical-align:middle;
+	padding-top:5px;
+}
+/*CSS for setting 3*/
